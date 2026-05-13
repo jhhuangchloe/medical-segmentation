@@ -1,0 +1,44 @@
+# ── Large data files ──────────────────────────────────────────
+*.dcm
+*.DCM
+*.mov
+*.MOV
+*.stl
+*.STL
+
+# ── Intermediate outputs ───────────────────────────────────────
+*.nii
+*.nii.gz
+*.tmp
+*.log
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ── Jupyter ───────────────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── Environment ───────────────────────────────────────────────
+.env
+.venv
+venv/
+env/
+
+# ── OS ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Editors ───────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+Miniconda3-latest-Linux-x86_64.sh

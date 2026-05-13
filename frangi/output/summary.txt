@@ -1,0 +1,9 @@
+Input DICOM folder : /home/yuxin/medical-segmentation/data/hybrid_ultra
+Voxel spacing      : 0.0244 mm
+Threshold          : 0.2
+Vessel voxels      : 575,883
+Vesselness map     : /home/yuxin/medical-segmentation/frangi/output/vesselness_map.nii.gz
+Binary mask        : /home/yuxin/medical-segmentation/frangi/output/vessel_mask.nii.gz
+STL                : /home/yuxin/medical-segmentation/frangi/output/vessels.stl
+chunk_z            : 128
+HTML               : /home/yuxin/medical-segmentation/frangi/output/vessels.html
